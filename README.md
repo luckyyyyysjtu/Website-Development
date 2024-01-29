@@ -58,3 +58,6 @@ Coding Language: **Java**
 ![](./image/Project4Diagram.png)
 ![](./image/Project4Mobile.png)
 ![](./image/Project4Dashboard.png)
+
+**Project5Part2**: The program uses Apache Spark to analyze various aspects of the text, including the number of lines, words, distinct words, symbols, distinct symbols, distinct letters, and allows the user to search for specific words within the text.
+
