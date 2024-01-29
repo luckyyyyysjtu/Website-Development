@@ -1,5 +1,6 @@
 # Web Development
-This repository showcases completed web development projects, highlighting proficiency in diverse skills such as database management, cloud integration, distributed systems, web scraping, and various web models.
+This repository showcases completed web development projects, highlighting proficiency in diverse skills such as HTML, database management, cloud integration, distributed systems, web scraping, and various web models. 
+Coding Language: Java
 
 
 ## Project Details
