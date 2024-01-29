@@ -1,5 +1,4 @@
 /**
- * Author: Yi Guo (Andrew ID:yiguo)
  * Last Modified: Sep 22, 2023
  * This program demonstrates a program that allows users to calculate the hash values
  * of the texts they entered. Users can self input the texts and make the choice between
