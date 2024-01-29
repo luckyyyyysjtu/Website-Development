@@ -1,6 +1,7 @@
 # Web Development
 This repository showcases completed web development projects, highlighting proficiency in diverse skills such as database management, cloud integration, distributed systems, web scraping, and various web models.
 
+
 ## Project Details
 **Project1Task1**: Developed a website to compute MD-5 and SHA-256 hashes of user inputs.
 
