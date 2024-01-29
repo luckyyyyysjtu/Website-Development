@@ -1,7 +1,5 @@
 package ds.project1task2;
 /*
- * @author Yi Guo
- * Andrew ID: yiguo
  *
  * This file is the Model component of the MVC, and it models the business
  * logic for the web application. The class has a variable treemap for recording all results.
