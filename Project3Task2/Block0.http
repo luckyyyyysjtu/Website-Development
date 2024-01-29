@@ -1,0 +1,55 @@
+###
+
+# curl -X POST -H "Content-Type: application/json" --data '{"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["0x0", true],"id":1}' https://mainnet.infura.io/v3/8ab7408875a7439098be8cfbe054a1b4
+POST https://mainnet.infura.io/v3/8ab7408875a7439098be8cfbe054a1b4
+Content-Type: application/json
+
+{
+  "jsonrpc": "2.0",
+  "method": "eth_getBlockByNumber",
+  "params": [
+    "0x0",
+    true
+  ],
+  "id": 1
+}
+
+###
+
+# curl -X POST -H "Content-Type: application/json" --data '{"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["0x1", true],"id":1}' https://mainnet.infura.io/v3/8ab7408875a7439098be8cfbe054a1b4
+POST https://mainnet.infura.io/v3/8ab7408875a7439098be8cfbe054a1b4
+Content-Type: application/json
+
+{
+  "jsonrpc": "2.0",
+  "method": "eth_getBlockByNumber",
+  "params": [
+    "0x1",
+    true
+  ],
+  "id": 1
+}
+
+###
+
+# curl -X POST -H "Content-Type: application/json" --data '{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x742d35Cc6634C0532925a3b844Bc454e4438f44e", "latest"],"id":1}' https://mainnet.infura.io/v3/8ab7408875a7439098be8cfbe054a1b4
+POST https://mainnet.infura.io/v3/8ab7408875a7439098be8cfbe054a1b4
+Content-Type: application/json
+
+{
+  "jsonrpc": "2.0",
+  "method": "eth_getBalance",
+  "params": [
+    "0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
+    "latest"
+  ],
+  "id": 1
+}
+
+###
+
+
+###
+
+
+
