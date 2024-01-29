@@ -16,6 +16,9 @@ Coding Language: **Java**
 
 **Project1Task3**: Developed a baseball information board that dynamically showcases player statistics and game schedules. Utilized data retrieval techniques, including interfacing with a third-party API and implementing web scraping to aggregate information.
 
+![](./image/Project1Task3.png)
+![](./image/Project1Task3Result.png)
+
 **Project2Task0**: This program implements a UDP Echo Client and a UDP Echo Server. The client sends user-entered messages to a UDP Echo Server running on the same machine ("localhost"). The client can send messages to the server, and the server echoes them back.
 
 **Project2Task1**: This program simulates an Eavesdropper UDP application. It listens on a specified port, intercepts messages from clients, and forwards them to a target server while altering specific content in the messages(changing like in string to dislike). The eavesdropper then captures and echoes the server's responses back to the original client.
