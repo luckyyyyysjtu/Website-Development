@@ -6,8 +6,7 @@ Coding Language: **Java**
 
 ## Project Details
 **Project1Task1**: Developed a website to compute MD-5 and SHA-256 hashes of user inputs.
-
-
+![Screenshot 1](./image/Project1Task1.png)
 
 **Project1Task2**: Developed a class clicker enabling students to make single-answer choices during class quizzes. Additionally, implemented a result display page that shows the count of each answer selected.
 
