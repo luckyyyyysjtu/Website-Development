@@ -21,6 +21,9 @@ Coding Language: **Java**
 
 **Project2Task0**: This program implements a UDP Echo Client and a UDP Echo Server. The client sends user-entered messages to a UDP Echo Server running on the same machine ("localhost"). The client can send messages to the server, and the server echoes them back.
 
+![](./image/Project2Task0Client.png)
+![](./image/Project1Task0Server.png)
+
 **Project2Task1**: This program simulates an Eavesdropper UDP application. It listens on a specified port, intercepts messages from clients, and forwards them to a target server while altering specific content in the messages(changing like in string to dislike). The eavesdropper then captures and echoes the server's responses back to the original client.
 
 **Project2Task2**: This program implements a basic UDP Adding Client and UDP Adding Server. The client allows users to enter integer values that are sent to a remote Adding Server. The client receives the server's response, which is typically the result of adding the sent value to a running total on the server. The client can continue to send values until the user enters "halt!" to terminate the client. The server listens on a specified port, receives integer values from clients, adds them to a running total, and returns the updated total to the clients. The server continues to run indefinitely, processing client requests.
