@@ -50,3 +50,6 @@ Coding Language: **Java**
 ![](./image/Project2Task5Client.png)
 ![](./image/Project2Task5Server.png)
 
+**Project3Task0**: The program constructs a simple blockchain and provides methods for managing and interacting with the blockchain. Users can add blocks, calculate difficulty, display block contents as JSON, corrupt the chain, repair the chain and check for hash calculation speed.
+
+**Project3Task1**: This task is similar to Project3 Task0. Additionally, it creates a client-server TCP connection. The blockchain is stored on the server side and the client could make requests to do operations on the blockchain.
