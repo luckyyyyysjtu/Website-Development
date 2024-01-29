@@ -53,3 +53,8 @@ Coding Language: **Java**
 **Project3Task0**: The program constructs a simple blockchain and provides methods for managing and interacting with the blockchain. Users can add blocks, calculate difficulty, display block contents as JSON, corrupt the chain, repair the chain and check for hash calculation speed.
 
 **Project3Task1**: This task is similar to Project3 Task0. Additionally, it creates a client-server TCP connection. The blockchain is stored on the server side and the client could make requests to do operations on the blockchain.
+
+**Project4**: Designed and built a distributed application consisting of a mobile application, a web service that communicates with a RESTful web service in the cloud, and a dashboard that displays logging and simple analytics about the application. The user log data is stored persistently so that it is available across restarts of the application. MongoDB is used to store log data.
+![](./image/Project4Diagram.png)
+![](./image/Project4Mobile.png)
+![](./image/Project4Dashboard.png)
